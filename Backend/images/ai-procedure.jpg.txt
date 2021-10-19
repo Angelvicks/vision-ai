@@ -1,0 +1,28 @@
+ 
+
+1
+2 x.
+Data Collection
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+80e
+
+Model Training
+
+ 
+
+Inference Deployment
+
